@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f340d47f-e8ab-465e-83b0-e455c7e050dc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tiles_Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tiles_Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Tile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Tile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-    </list>
+    <list default="true" id="f340d47f-e8ab-465e-83b0-e455c7e050dc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +109,7 @@
       <workItem from="1789764096524" duration="8000" />
       <workItem from="1789849798111" duration="7763000" />
       <workItem from="1789933512557" duration="7338000" />
-      <workItem from="1790010964219" duration="10811000" />
+      <workItem from="1790010964219" duration="12108000" />
     </task>
     <servers />
   </component>
